@@ -167,13 +167,11 @@ body {
     font-size: 18px;
 }
 
-/* títulos mais destacados */
 h1,
 h2 {
     font-size: 26px;
 }
 
-/* inputs e botões maiores e mais confortáveis */
 input[type="text"],
 input[type="date"],
 button {
@@ -183,14 +181,12 @@ button {
     margin-bottom: 12px;
 }
 
-/* botões com mais presença */
 input[type="button"],
 button {
     font-size: 17px;
     padding: 10px 16px;
 }
 
-/* caixas de tarefa mais legíveis */
 .tarefa-item,
 .concl {
     font-size: 17px;
